@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Welcome to the world of Vaeshari!
 ---
 
-Hello world!
-
-Write some words here!
+This is a comprehensive Wiki for the upcoming campaigns in the world of Vaeshari. 
